@@ -1,2 +1,3 @@
 # sql-projects
-Kumpulan proyek SQL untuk pembersihan dan analisis data`
+Kumpulan proyek SQL untuk pembersihan dan analisis data
+
