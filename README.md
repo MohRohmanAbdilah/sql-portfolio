@@ -1,3 +1,3 @@
 # SQL Portfolio
-Kumpulan proyek SQL untuk pembersihan dan analisis data
+Collection of SQL queries and exercises for data exploration and analysis.
 
